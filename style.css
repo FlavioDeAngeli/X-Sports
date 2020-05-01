@@ -311,7 +311,7 @@ header {
 @media (max-width: 1080px) {
 
 	body {
-  		font-size: 1.5rem;
+  		font-size: 1rem;
   	}
 
   	#banner {
@@ -341,7 +341,7 @@ header {
 	}
 
 	.section_3 {
-  		font-size: 2rem;
+  		font-size: 1.5rem;
   	}
 
   	#button_1 {
