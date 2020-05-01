@@ -314,6 +314,14 @@ header {
   		font-size: 1.5rem;
   	}
 
+  	#banner {
+  		display: none;
+  	}
+
+  	#logo {
+  		width: 100vw;
+  	}
+
 	#read_more_1, #read_more_2, #read_more_3, #read_more_4, #read_more_5, #read_more_6 {
 	display: inline;
 	}
