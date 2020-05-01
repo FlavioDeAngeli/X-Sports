@@ -308,7 +308,7 @@ header {
 @media (max-width: 1080px) {
 
 	body {
-  		font-size: 20px;
+  		font-size: 0.9rem;
   	}
 
   	#banner {
@@ -382,7 +382,7 @@ header {
 	}
 	
 	.sub_section_1, .sub_section_2, .sub_section_3 {
-		font-size: 20px;
+		font-size: 2rem;
 	
 	.main_bottom {
 	grid-template-columns: 1fr;  /*sets vertical layout in two columns*/
