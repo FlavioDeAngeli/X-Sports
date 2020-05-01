@@ -131,19 +131,16 @@ header {
 }
 
 .sub_section_1 {
-	/*height: 100%;*/
 	margin-bottom: 10px;
 	padding: 5px 30px 5px 30px;
 }
 
 .sub_section_2 {
-	/*height: 100%;*/
 	margin-bottom: 10px;
 	padding: 5px 30px 5px 30px;
 }
 
 .sub_section_3 {
-	/*height: 100%;*/
 	padding: 5px 30px 5px 30px;
 }
 
@@ -383,12 +380,6 @@ header {
 	.section_3 {
 	margin-left: 10px;
 	}
-
-	.sub_section_1, .sub_section_2, .sub_section_3 {
-		font-size: 1.5rem;
-	}
-
-
 
 	.main_bottom {
 	grid-template-columns: 1fr;  /*sets vertical layout in two columns*/
