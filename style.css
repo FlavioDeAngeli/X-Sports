@@ -382,7 +382,7 @@ header {
 	}
 	
 	.sub_section_1, .sub_section_2, .sub_section_3 {
-		font-size: 2.1em;
+		font-size: 3em;
 	
 	.main_bottom {
 	grid-template-columns: 1fr;  /*sets vertical layout in two columns*/
